@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Prompt-Battle/static/css/main.c53b53e5.css",
-    "main.js": "/Prompt-Battle/static/js/main.d914cd02.js",
+    "main.css": "/Prompt-Battle/static/css/main.cd981dea.css",
+    "main.js": "/Prompt-Battle/static/js/main.0d5bc0f0.js",
     "static/media/BackGroundMobile.jpg": "/Prompt-Battle/static/media/BackGroundMobile.c26acdbc2eb503ed0c77.jpg",
     "index.html": "/Prompt-Battle/index.html",
-    "main.c53b53e5.css.map": "/Prompt-Battle/static/css/main.c53b53e5.css.map",
-    "main.d914cd02.js.map": "/Prompt-Battle/static/js/main.d914cd02.js.map"
+    "main.cd981dea.css.map": "/Prompt-Battle/static/css/main.cd981dea.css.map",
+    "main.0d5bc0f0.js.map": "/Prompt-Battle/static/js/main.0d5bc0f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.c53b53e5.css",
-    "static/js/main.d914cd02.js"
+    "static/css/main.cd981dea.css",
+    "static/js/main.0d5bc0f0.js"
   ]
 }
